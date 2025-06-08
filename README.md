@@ -1,2 +1,2 @@
-# CSharp-43.Proje
+# C#-43.Proje
 LINQ (Language Integrated Query)1
